@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="alice">Bert want's you to wake him up now, we'll start calling him now</Say>
+    <Dial timeout="10" record="true">+32474418798</Dial>
+    <Say voice="alice">Thanks bro</Say>
+</Response>
