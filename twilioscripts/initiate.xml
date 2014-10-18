@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Response>
-    <Say voice="alice">Bert want's you to wake him up now, we'll start calling him now</Say>
-    <Dial record="true"><Number>+32474418798</Number></Dial>
-    <!--<Say voice="alice">Thanks bro</Say>-->
-</Response>
